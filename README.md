@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="calculadora" src="calculadora.png" />
+  <img alt="calculadora" src="calculadoragif.gif" />
 </p>
 
 <h3 align="center">
