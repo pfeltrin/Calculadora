@@ -6,4 +6,4 @@
   <img alt="calculadora" src="calculadoragif.gif" />
 </p>
 
-<p align="center"> by Patrick Feltrin </p>
+<p align="center"> Feito por: Patrick Feltrin </p>
